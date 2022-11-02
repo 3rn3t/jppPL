@@ -1,0 +1,31 @@
+{"produits":[
+    {
+        "modele": "Classique",
+        "image": "../image/plomb-dn.png",
+        "poids": "20-200",
+        "couleur": "",
+        "sols": "Gravier,Sable,Vase",
+        "msg": "",
+        "prix" : ""
+    },
+
+    {
+        "modele": "Essentiel",
+        "image": "../image/plomb-dd.png",
+        "poids": "10-150",
+        "couleur": "",
+        "sols": "Gravier,Sable",
+        "msg": "",
+        "prix" : ""
+    },
+
+    {
+        "modele": "Passe-Partout",
+        "image": "../image/plomb-dr.png",
+        "poids": "10-100",
+        "couleur": "",
+        "sols": "Algue,Gravier,Sable",
+        "msg": "",
+        "prix" : ""
+    }
+]}
